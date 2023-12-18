@@ -1,0 +1,67 @@
+{
+  "department": [
+    {
+      "id": "d1",
+      "name": "PHP"
+    },
+    {
+      "id": "d2",
+      "name": "HR"
+    },
+    {
+      "id": "d3",
+      "name": "Account"
+    },
+    {
+      "id": "d4",
+      "name": "Document"
+    }
+  ],
+  "employee": [
+    {
+      "id": "rx-1",
+      "departmentId": "d1",
+      "name": "Mihir"
+    },
+    {
+      "id": "rx-2",
+      "departmentId": "d2",
+      "name": "Rutul"
+    },
+    {
+      "id": "rx-3",
+      "departmentId": "d1",
+      "name": "Rahul"
+    },
+    {
+      "id": "rx-4",
+      "departmentId": "d1",
+      "name": "Sachin"
+    },
+    {
+      "id": "rx-5",
+      "departmentId": "d2",
+      "name": "Mahesh"
+    },
+    {
+      "id": "rx-6",
+      "departmentId": "d3",
+      "name": "Akash"
+    },
+    {
+      "id": "rx-7",
+      "departmentId": "d4",
+      "name": "Sunil"
+    },
+    {
+      "id": "rx-8",
+      "departmentId": "d1",
+      "name": "Mahesh"
+    },
+    {
+      "id": "rx-9",
+      "departmentId": "d4",
+      "name": "Akash"
+    }
+  ]
+}
